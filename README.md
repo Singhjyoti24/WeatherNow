@@ -2,6 +2,9 @@
 WeatherNow is an innovative weather project that aims to provide users with up-to-date and accurate weather information tailored to their specific needs. With advanced data analysis and intuitive user interface, WeatherNow offers a comprehensive and user-friendly weather experience.
 
 
+![Screenshot (956)](https://github.com/dev24il/WeatherNow/assets/98025162/02574716-d9c9-4fb5-a457-c07c3715953e)
+![Screenshot (957)](https://github.com/dev24il/WeatherNow/assets/98025162/d7de5427-20bb-4d37-881c-bac26dd8a66d)
+
 ## Installation
 
 1. Clone the repository:
