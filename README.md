@@ -24,7 +24,7 @@ npm install
 4. Start the application:
 
 ```bash
-npm start
+nodemon app.js
 ```
 
 5. Open your web browser and access the application at 
